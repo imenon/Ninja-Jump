@@ -1,0 +1,22 @@
+.grid {
+  width: 400px;
+  height: 600px;
+  background-image: url('background.png');
+  position: relative;
+  font-size: 100px;
+  text-align: center;
+}
+
+.ninja {
+  width: 87px;
+  height: 85px;
+  background-image: url('ninja-man.png'); 
+  position: absolute;
+}
+
+.platform {
+  width: 85px;
+  height: 61px;
+  background-image: url('platform.png');
+  position: absolute;
+}
